@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋 I'm JinGu Jeon</h1>
 <p align="center">Junior Backend Developer | Java & Spring Enthusiast</p>
 
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jingujeon&count_bg=%23B3E2F2&title_bg=%23C9B6F5&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true"/>
-</p>
-
 ---
 
 ### 💪 Tech Stack
@@ -30,7 +26,7 @@
 ### 🚀 Project
 
 - 📅 **PHCCS** (2024.04 ~ 진행중)  
-  반려견 피부질환 진단 & 커뮤니티 서비스 개발 프로젝트입니다.  
+  반려견 피부질환 검진 & 커뮤니티 서비스 개발 프로젝트입니다.  
   `Java`, `Spring Boot`, `MyBatis`, `MySQL`, `Spring Security`, `JWT`  
   ▶ [GitHub Repo 확인하기](https://github.com/buja0824/PHCCS.git)
 
@@ -39,20 +35,19 @@
 ### 🏆 Achievements
 
 - 🧾 PCCP Lv.2 (Java) - 2025.01
-- 🥇 대진대 지역 대학간 SW 캡스톤 디자인 경진대회 대상 (2025.02)
-- 🥈 대진대 벤처스타트업 아카데미 캡스톤 디자인 발표회 우수상 (2024.12)
+- 🥇 대진대 지역 대학간 SW 캐프스톤 디자인 경진대회 대상 (2025.02)
+- 🥈 대진대 벤체스터터프 아카베니 캐프스톤 디자인 발표회 우수상 (2024.12)
 
 ---
 
 ### 📨 Contacts
 <p>
   <a href="mailto:wlsrn158@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://velog.io/@wsrn158">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
   </a>
   <a href="https://github.com/jingujeon">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
