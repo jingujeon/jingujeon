@@ -33,9 +33,12 @@
 
 - 📅 **PHCCS** (2024.04 ~ 진행중)  
   반려견 피부질환 검진 & 커뮤니티 서비스 개발 프로젝트입니다.  
-  `Java`, `Spring Boot`, `MyBatis`, `MySQL`, `Spring Security`, `JWT`  
-  ▶ [GitHub Repo 확인하기](https://github.com/buja0824/PHCCS.git)
+  `Java`, `Spring Boot`, `MyBatis`, `MySQL`, `Spring Security`, `JWT`
 
+  <a href="https://github.com/buja0824/PHCCS.git">
+    <img src="https://img.shields.io/badge/🔗 GitHub&nbsp;Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
 ---
 
 ### 🏆 Achievements
