@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/badge/이력서(Resume)-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
+
 [![certificate](https://img.shields.io/badge/certificate-2F3542?style=flat-square&labelColor=2F3542&color=ffffff)](https://certi.programmers.co.kr/result/share/9449)
+
 ---
 ### 💪 Tech Stack
 
