@@ -57,7 +57,4 @@
   <a href="https://github.com/jingujeon">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://magic-lotus-bd5.notion.site/184d34b67d2880baae47eb7bc5d90c42">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
 </p>
