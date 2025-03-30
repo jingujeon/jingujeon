@@ -43,7 +43,7 @@
 
 ### 🏆 Achievements
 
-- 🧾 PCCP Lv.2 (Java) - 2025.01
+- 🧾 [PCCP Lv.2 (Java)](https://certi.programmers.co.kr/result/share/9449)
 - 🥇 대진대 지역 대학간 SW 캡스톤 디자인 경진대회 대상 (2025.02)
 - 🥈 대진대 벤체스타트업 아카데미 캡스톤 디자인 발표회 우수상 (2024.12)
 
