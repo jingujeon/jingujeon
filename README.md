@@ -43,7 +43,8 @@
 
 ### 🏆 Achievements
 
-- 🧾 PCCP Lv.2 - Java (2025.01) [![인증서](https://img.shields.io/badge/인증서%20보기-000000?style=flat-square&logo=Samsung&logoColor=white)](https://certi.programmers.co.kr/result/share/9449)
+- 🧾 PCCP Lv.2 – Java (2025.01)  
+  [![인증서](https://img.shields.io/badge/인증서%20보기-2F3542?style=flat-square&logoColor=white)](https://certi.programmers.co.kr/result/share/9449)
 - 🥇 대진대 지역 대학간 SW 캡스톤 디자인 경진대회 대상 (2025.02)
 - 🥈 대진대 벤체스타트업 아카데미 캡스톤 디자인 발표회 우수상 (2024.12)
 
