@@ -7,8 +7,6 @@
   </a>
 </p>
 
-[![certificate](https://img.shields.io/badge/certificate-007396?style=flat-square&logo=Java&logoColor=white)](https://certi.programmers.co.kr/result/share/9449)
-
 ---
 ### 💪 Tech Stack
 
