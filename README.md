@@ -41,7 +41,8 @@
 ---
 
 ### 🏆 Achievements
-
+- 🧾 SQLD (2025.06) [인증서](https://www.notion.so/SQLD-21fd34b67d2880618a2bfd305e5ef529)
+- 🧾 AICE Associate (2025.04) [인증서](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/R1RaTFV2MjJPTG40MmRiL25mc1VPdz09)
 - 🧾 PCCP Lv.2 – Java (2025.01) [인증서](https://certi.programmers.co.kr/result/share/9449)
 - 🥇 대진대 지역 대학간 SW 캡스톤 디자인 경진대회 대상 (2025.02)
 - 🥈 대진대 벤처스타트업 아카데미 캡스톤 디자인 발표회 우수상 (2024.12)
