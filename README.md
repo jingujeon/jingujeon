@@ -2,8 +2,8 @@
 <p align="center">Junior Backend Developer | Java & Spring Enthusiast</p>
 
 <p align="center">
-  <a href="https://magic-lotus-bd5.notion.site/184d34b67d2880baae47eb7bc5d90c42?pvs=4">
-    <img src="https://img.shields.io/badge/이력서(Resume)-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <a href="https://magic-lotus-bd5.notion.site/184d34b67d2880baae47eb7bc5d90c42">
+    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
 
