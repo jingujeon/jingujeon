@@ -5,7 +5,7 @@
 </div>
 
 ---
-### 💪 Tech Stack
+### 🔧 Tech Stack
 
 #### Platforms & Languages
 <p>
