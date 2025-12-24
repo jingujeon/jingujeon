@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
-
+</div>
 ---
 ### 💪 Tech Stack
 
