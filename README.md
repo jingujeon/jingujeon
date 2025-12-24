@@ -5,7 +5,9 @@
 </div>
 
 ---
-### 🔧 Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e1ecf4&height=60&section=header&text=%F0%9F%92%AA%20Tech%20Stack&fontSize=25&fontColor=333333" />
+
+<br />
 
 #### Platforms & Languages
 <p>
