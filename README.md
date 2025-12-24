@@ -28,27 +28,6 @@
 
 ---
 
-### 🚀 Project
-
-- 📅 **PHCCS** (2024.04 ~ 진행중)  
-  반려견 피부질환 검진 & 커뮤니티 서비스 개발 프로젝트입니다.  
-  `Java`, `Spring Boot`, `MyBatis`, `MySQL`, `Spring Security`, `JWT`
-
-  <a href="https://github.com/buja0824/PHCCS.git">
-    <img src="https://img.shields.io/badge/🔗 GitHub&nbsp;Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
----
-
-### 🏆 Achievements
-- 🧾 SQLD (2025.06) [증명서](https://www.notion.so/SQLD-21fd34b67d2880618a2bfd305e5ef529)
-- 🧾 AICE Associate (2025.04) [증명서](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/R1RaTFV2MjJPTG40MmRiL25mc1VPdz09)
-- 🧾 PCCP Lv.2 – Java (2025.01) [증명서](https://certi.programmers.co.kr/result/share/9449)
-- 🥇 대진대 지역 대학간 SW 캡스톤 디자인 경진대회 대상 (2025.02)
-- 🥈 대진대 벤처스타트업 아카데미 캡스톤 디자인 발표회 우수상 (2024.12)
-
----
-
 ### 📨 Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:wlsrn158@gmail.com)
