@@ -4,7 +4,6 @@
 
 </div>
 
----
 ### 🔧 Tech Stack
 #### Platforms & Languages
 <p>
