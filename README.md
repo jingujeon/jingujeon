@@ -5,7 +5,7 @@
 </div>
 
 ---
-### 🔧 <font color="#387cc5"> Tech Stack </font>
+###  <font color="#387cc5">🔧 Tech Stack</font>
 
 #### Platforms & Languages
 <p>
