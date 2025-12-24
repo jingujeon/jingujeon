@@ -6,7 +6,6 @@
 
 ---
 ### 🔧 Tech Stack
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=387cc5&text=%F0%9F%94%A7%20Tech%20Stack&height=50&fontSize=30" />
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
