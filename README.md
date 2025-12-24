@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Make it work, make it good, make it fast</h1>
+  <h1>Make it work, Make it good, Make it fast</h1>
 
 <p align="center">
   <a href="https://www.notion.so/184d34b67d2880baae47eb7bc5d90c42?source=copy_link">
