@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋 I'm JinGu Jeon</h1>
-<p align="center">Junior Backend Developer | Java & Spring Enthusiast</p>
+<p align="center">
+  <b>"Make it work, make it good, make it fast"</b><br>
+</p>
 
 <p align="center">
   <a href="https://magic-lotus-bd5.notion.site/184d34b67d2880baae47eb7bc5d90c42">
-    <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
 
