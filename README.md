@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://magic-lotus-bd5.notion.site/184d34b67d2880baae47eb7bc5d90c42">
+  <a href="https://www.notion.so/184d34b67d2880baae47eb7bc5d90c42?source=copy_link">
     <img src="https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
 </p>
