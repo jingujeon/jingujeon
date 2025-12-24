@@ -30,7 +30,16 @@
 
 ---
 
-### 📨 Contacts
+### 🔗 Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:wlsrn158@gmail.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@wsrn158)
+<p>
+  <a href="https://www.notion.so/184d34b67d2880baae47eb7bc5d90c42?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a href="mailto:wlsrn158@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@wsrn158">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+  </a>
+</p>
