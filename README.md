@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=e1ecf4&height=200&section=header&text=Make%20it%20work%20Make%20it%20good%20Make%20it%20fast&fontSize=35&fontColor=FFFFFF" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e1ecf4&height=200&section=header&text=Make%20it%20work%2C%20Make%20it%20good%2C%20Make%20it%20fast&fontSize=35&fontColor=FFFFFF" width="100%">
 
 <p align="center">
   <a href="https://www.notion.so/184d34b67d2880baae47eb7bc5d90c42?source=copy_link">
