@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=e1ecf4&height=200&section=header&text=Make%20it%20work%2C%20Make%20it%20good%2C%20Make%20it%20fast&fontSize=35&fontColor=FFFFFF" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=e1ecf4&height=200&section=header&text=Make%20it%20work%2C%20Make%20it%20right%2C%20Make%20it%20fast&fontSize=35&fontColor=FFFFFF" width="100%">
 
 </div>
 
