@@ -24,5 +24,5 @@
 
 ### 🔗 Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jjg2000dev@gmail.com)
+jjg2000dev@gmail.com
 
